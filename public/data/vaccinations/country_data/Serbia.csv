@@ -1,4 +1,4 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Lošlocation,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 Serbia,2021-01-08,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.zdravlje.gov.rs/vest/353217/do-sada-vakcinu-pritiv-korone-primilo-vise-od-7000-ljudi.php,7000,7000,
 Serbia,2021-01-10,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.srbija.gov.rs/vest/en/166035/preconditions-for-beginning-of-mass-vaccination-provided.php,9300,9300,
 Serbia,2021-01-14,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.srbija.gov.rs/vest/en/166230/18136-citizens-vaccinated-to-date.php,18136,18136,
@@ -21,3 +21,4 @@ Serbia,2021-02-07,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.da
 Serbia,2021-02-10,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.alo.rs/vesti/drustvo/592-634-primilo-vakcinu-sve-veci-broj-revakcinisanih/383807/vest,640299,592634,47665
 Serbia,2021-02-11,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.kurir.rs/amp/3622973/danas-tacno-2000-novozarazenih-najnoviji-korona-presek-u-srbiji-15-preminulih-raste-broj-pacijenata-na-respiratorima,719381,636119,83262
 Serbia,2021-02-13,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.blic.rs/vesti/drustvo/blizimo-se-cifri-od-800000-vakcinisanih-gradana-a-evo-koji-gradovi-danas-imaju/k0gmvln,950871,783161,167710
+https://www.blic.rs/vesti/drustvo/korona-presek-po-gradovima-srbije-beograd-ispod-500-novi-sad-pao-na-listi/2gkne63
